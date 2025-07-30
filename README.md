@@ -9,7 +9,7 @@ This is a full-stack **Contact Book** application built using **HTML, CSS, JavaS
 - Add new contacts (name, phone, email, etc.)
 - View all contacts in a structured table
 - Edit and update contact details
-- 🗑Delete individual contacts
+- Delete individual contacts
 - Search/filter contacts
 - Responsive layout using CSS
 
